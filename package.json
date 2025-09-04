@@ -1,0 +1,28 @@
+{
+  "name": "video-playback",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "sass": "^1.91.0",
+    "sass-loader": "^16.0.5",
+    "three": "^0.179.1",
+    "vite-plugin-vuetify": "^2.1.2",
+    "vue": "^3.5.18",
+    "vuetify": "^3.9.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.0.6",
+    "vite-plugin-vue-devtools": "^8.0.0"
+  }
+}
