@@ -27,5 +27,6 @@ coverage
 *.sln
 *.sw?
 *.mp4
+GS012237-stitched.mp4
 
 *.tsbuildinfo
