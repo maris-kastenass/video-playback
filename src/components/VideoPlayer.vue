@@ -225,6 +225,8 @@ const resizeScene = () => {
   resizeTimeout = setTimeout(() => {
     const width = videoContainer.value.clientWidth;
     const height = videoContainer.value.clientHeight;
+    overlayCanvas.value.width = width;
+    overlayCanvas.value.height = height;
     renderer.setSize(width, height);
     camera.aspect = width / height;
     camera.updateProjectionMatrix();
