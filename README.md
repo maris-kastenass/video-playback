@@ -15,6 +15,7 @@ npm or pnpm or yarn (choose your favorite package manager)
 
 ### 1. Clone the repository
 `git clone https://github.com/maris-kastenass/vendon-task.git`
+
 `cd video-playback`
 
 2. Install dependencies
