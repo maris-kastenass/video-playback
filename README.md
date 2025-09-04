@@ -23,6 +23,7 @@ npm or pnpm or yarn (choose your favorite package manager)
 `npm install`
 
 3. Add mp4 file - GS012237-stitched.mp4 in to public folder
+
 Because this is only a representational project.
 
 4. Run the development server
